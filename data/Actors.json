@@ -1,6 +1,6 @@
 [
 null,
 {"id":1,"battlerName":"Actor2_3","characterIndex":0,"characterName":"plynngo","classId":1,"equips":[1,1,0,0,0],"faceIndex":0,"faceName":"P-Lynn","traits":[],"initialLevel":1,"maxLevel":99,"name":"冰岚","nickname":"","note":"<Set Sts Data>\nTreetype:5,6\ninit sp:5\n</Set Sts Data>","profile":"战斗属性成长很差，但是灵成长极高。\n但是有一把专属的剑形魔杖，战斗法师也不是不行。"},
-{"id":2,"battlerName":"Actor1_1","characterIndex":0,"characterName":"IMG_4496","classId":2,"equips":[3,3,0,0,4],"faceIndex":3,"faceName":"IceYu","traits":[],"initialLevel":5,"maxLevel":99,"name":"冰羽","nickname":"","note":"<Set Sts Data>\nTreetype:7\ninit sp:5\n</Set Sts Data>","profile":"拥有独特的[咖啡精调]技能。\n拥有固定的轮椅防具。"},
+{"id":2,"battlerName":"Actor1_1","characterIndex":0,"characterName":"IMG_4496","classId":2,"equips":[3,3,0,0,4],"faceIndex":2,"faceName":"IceYu","traits":[],"initialLevel":5,"maxLevel":99,"name":"冰羽","nickname":"","note":"<Set Sts Data>\nTreetype:7\ninit sp:5\n</Set Sts Data>","profile":"拥有独特的[咖啡精调]技能。\n拥有固定的轮椅防具。"},
 {"id":3,"battlerName":"Actor1_3","characterIndex":0,"characterName":"speedgo","classId":3,"equips":[4,5,0,0,0],"faceIndex":4,"faceName":"speed","traits":[],"initialLevel":1,"maxLevel":99,"name":"袭","nickname":"","note":"","profile":"拥有较高的基础伤害回避率和暴击率。拥有几乎无限的灵。\n不容易被作为敌人的目标。增加先发制人率。"}
 ]
